@@ -510,3 +510,9 @@ a.next {
 .highlight {
   background-color: #f8f8f8;
 }
+
+@media (max-width: 480px) {
+  .mobbutton {
+    display: none;
+  }
+}

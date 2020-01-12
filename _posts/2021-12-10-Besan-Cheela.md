@@ -3,7 +3,6 @@ title:  "Besan Cheela"
 metadate: "hide"
 categories: [ Breads ]
 image: "/assets/images/roadmap.jpg"
-visit: "https://crmrkt.com/zpz0Wx"
 ---
 
 A yummy, well known homely besan cheela recipe.
