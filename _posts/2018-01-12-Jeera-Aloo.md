@@ -2,7 +2,7 @@
 title:  "Jeera Aloo"
 metadate: "hide"
 categories: [ Dry, Indian ]
-image: "/assets/images/violett.jpg"
+image: "/assets/images/jeera-aloo.jpg"
 ---
 
 A common and simple accompanyment to a typical north indian home cooked meal!
