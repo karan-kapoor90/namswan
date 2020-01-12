@@ -7,7 +7,7 @@ baseurl: ''
 avatar: 'assets/images/sal.jpg'
 disqus: 'demowebsite'
 email: 'wowthemesnet@gmail.com'
-
+future: false
 include: ["_pages"]
 permalink: /:title/
 
