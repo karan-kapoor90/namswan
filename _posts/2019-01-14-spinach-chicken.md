@@ -2,7 +2,7 @@
 title:  "Spinach Chicken"
 metadate: "hide"
 categories: [ Indian ]
-image: "/assets/images/methi-thepla.JPG"
+image: "/assets/images/Spinach-Chicken.JPG"
 ---
 
 A common and simple accompanyment to a typical north indian home cooked meal!

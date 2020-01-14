@@ -3,12 +3,11 @@ title:  "Coconut Coriander Chutney"
 metadate: "hide"
 categories: [ Chutneys&Pickles ]
 image: "/assets/images/Coconut-coriander-chutney.JPG"
-visit: "https://crmrkt.com/zpmep0"
 description: "Refreshing twist to the regular coconut chutney served with most south indian cuisine."
 ---
 ## Ingredients
 
-1. 1 cup fresh/ frozen cocnut
+1. 1 cup fresh/ frozen coconut
 2. 1 cup coriander leaves
 3. 2 green chillies
 4. 1/2 inch ginger
