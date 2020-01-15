@@ -1,12 +1,12 @@
 # Site
 name: 'NamakSwaadAnusar'
 description: 'The official Namak Swaad Anusar Website where a buddling hobbyist chef brings together her recipes fro the betterment of mankind.'
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/logo-small.png'
+favicon: 'assets/images/Favicon.png'
 baseurl: ''
 avatar: 'assets/images/sal.jpg'
 disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
+email: 'gurmehar.277@gmail.com'
 future: false
 include: ["_pages"]
 permalink: /:title/
