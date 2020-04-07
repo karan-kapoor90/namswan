@@ -24,19 +24,22 @@
     
 <body>
     
-    <nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top">
-    <a class="navbar-brand font-weight-bolder mr-3" href="{{site.baseurl}}/index.html"><img src="{{site.baseurl}}/{{site.logo}}"></a>
-    <button class="navbar-light navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsDefault" aria-controls="navbarsDefault" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarsDefault">        
-    	<ul class="navbar-nav mr-auto align-items-center">            
-            {% include search-lunr.html %}    		
-    	</ul>
-    	<ul class="navbar-nav ml-auto align-items-center">
-    		{% include menu-header.html %}
-    	</ul>
-    </div>
+    <nav class="navbar navbar-expand-sm navbar-light bg-white fixed-top justify-content-end">
+      <a class="navbar-brand mr-auto" href="{{site.baseurl}}/index.html">
+        <img class="img-responsive" height="60" src="{{site.baseurl}}/{{site.logo}}">
+      </a>
+      <button class="navbar-light navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarsDefault" aria-controls="navbarsDefault" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+      </button>
+    
+      <div class="collapse navbar-collapse flex-grow-0" id="navbarsDefault">        
+        <ul class="navbar-nav text-right">            
+              {% include search-lunr.html %}    		
+        </ul>
+        <ul class="navbar-nav text-right">
+          {% include menu-header.html %}
+        </ul>
+      </div>
     </nav>
     
     <div id="lunrsearchresults">

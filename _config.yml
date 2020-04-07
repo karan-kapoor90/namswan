@@ -1,11 +1,11 @@
 # Site
-name: 'NamakSwaadAnusar'
-description: 'The official Namak Swaad Anusar Website where a buddling hobbyist chef brings together her recipes fro the betterment of mankind.'
+name: 'PassionatePaprika'
+description: 'The official Passionate Paprika Website where a buddling hobbyist chef brings together her recipes fro the betterment of mankind.'
 logo: 'assets/images/logo-small.png'
 favicon: 'assets/images/Favicon.png'
 baseurl: ''
 avatar: 'assets/images/sal.jpg'
-disqus: 'demowebsite'
+disqus: 'passionatepaprika'
 email: 'gurmehar.277@gmail.com'
 future: false
 include: ["_pages"]
