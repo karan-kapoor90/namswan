@@ -1,35 +1,26 @@
 ---
 title: "About"
 permalink: "/about.html"
-image: "/assets/images/screenshot.jpg"
+image: "/assets/images/about.JPG"
 ---
 
-Hi, guys! The website you are previewing is a demonstration for Pintereso Jekyll theme and it is hosted on Github pages. There are various ways you can use Pintereso with your Jekyll website. Here are some of them:
+Hello!!
 
-- blogging
-- curated resources
-- affiliate marketing
-- resume
-- portfolio
-- photography
+> We are Gurmehar and Karan, and we're SUPER passionate about easy cooking, and experimenting with food. 
 
-**Features**
+Want to try making something new or delicious today? Maybe surprise your wife or your kids with a dish they'd consider well above your skill level? We've got you covered! We've put together dishes that are scrumptuous, hearty and can be cooked at home without being an ace chef. 
 
-- 100% Github Pages Compatibility
-- Bootstrap 4.x
-- SEO Integration
-- Search
-- Categories
-- Prev/Next Post
-- Pagination
-- Disqus Comments
-- Sitemap
-- Feed
-- Formspree Contact Form
-- Pinterest, AddThis, Google Analytics
-- Font Awesome 5+
-- Cookie Consent & Privacy Policy
+We love keeping cooking simple, easy and fun, and we hope this website helps you do the same! 
 
-Made with <i class="fa fa-heart text-danger"></i> by Sal @wowthemesnet. Thanks for your <a target="_blank" href="https://www.wowthemes.net/freebies-license/">support</a>!
+**PS:** Give us a shoutout on social media, or share our content. It takes a lot fo time and effort to put this out to the world, and we hope you'd help us spread the love!
 
-<a class="btn btn-danger" href="https://github.com/wowthemesnet/template-pintereso-bootstrap-jekyll/archive/master.zip"><i class="fa fa-download"></i> pintereso.zip</a> <a target="_blank" class="btn btn-warning" href="https://www.wowthemes.net/donate/"><i class="fa fa-coffee"></i> Buy me a coffee?</a>
+Peace 
+<i class="fa fa-hand-peace"></i>
+
+
+
+
+
+
+
+<div class="small text-muted">*Credits: This fantastic UI theme was created, and contributed, for free, by Sal @wowthemesnet. Thank you <i class="fas fa-coffee"></i>* </div>
