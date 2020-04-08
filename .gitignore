@@ -3,3 +3,4 @@ Gemfile.lock
 .jekyll-cache/
 _site/
 vendor/
+assets/.DS_Store
