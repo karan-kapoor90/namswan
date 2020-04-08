@@ -5,7 +5,7 @@ categories: [Desserts ]
 image: "/assets/images/bread-pudding.jpg"
 ---
 
-Intro/ insta desc 
+Simple and scrumptious, this takes about 10 minutes to prepare and all you need is besic groceries at home.  
 
 ## Ingredients
 

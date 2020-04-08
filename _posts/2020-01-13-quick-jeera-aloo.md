@@ -1,7 +1,7 @@
 ---
 title:  "Quick Jeera Aloo"
 metadate: "hide"
-categories: [Dry,Vegetarian]
+categories: [Vegetarian]
 image: "/assets/images/quick-jeera-aloo.jpg"
 ---
 
