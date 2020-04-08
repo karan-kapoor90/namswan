@@ -1,7 +1,7 @@
 ---
 title:  "White Butter"
 metadate: "hide"
-categories: [Accompaniment]
+categories: [Accompaniments]
 image: "/assets/images/white-butter.jpg"
 ---
 
