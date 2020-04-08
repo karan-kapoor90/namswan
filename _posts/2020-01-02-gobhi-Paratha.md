@@ -5,7 +5,7 @@ categories: [Breads]
 image: "/assets/images/gobhi-paratha.jpg"
 ---
 
-One of Noth india's staples! Breakfast, lunch, or dinner, an all time winner and a sure shot crowd pleaser! If you haven't tried it,now's the time. 
+One of Noth india's staples! Breakfast, lunch, or dinner, Gobhi Paratha is an all time winner and a sure shot crowd pleaser! If you haven't tried it,now's the time. 
 
 ## Ingredients
 
