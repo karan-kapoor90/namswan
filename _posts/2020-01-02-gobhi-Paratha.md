@@ -2,7 +2,7 @@
 title:  "Gobhi Paratha"
 metadate: "hide"
 categories: [Breads]
-image: "/assets/images/.jpg"
+image: "/assets/images/gobhi-paratha.jpg"
 ---
 
 One of Noth india's staples! Breakfast, lunch, or dinner, an all time winner and a sure shot crowd pleaser! If you haven't tried it,now's the time. 
