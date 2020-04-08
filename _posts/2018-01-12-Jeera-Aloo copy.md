@@ -1,23 +1,25 @@
 ---
-title:  "Jeera Aloo"
+title:  "Aloo Gobhi"
 metadate: "hide"
 categories: [ Dry, Indian ]
 image: "/assets/images/quick-jeera-aloo.jpg"
 ---
 
-A common and simple accompanyment to a typical north indian home cooked meal!
+Getting married, learn aloo gobhi first:P
+Every mother-in-laws first question :Aloo gobhi nanana aata hai, comes from this!
+Famous or infamous, that you decide after you've tried you hand at this. 
 
 ## Ingredients
 
 - 4 large boiled potatoes (diced in 1 inch pieces)
 - 1 teaspoon jeera (cumin seeds)
-- 3 teaspoons oil
+- 3 teaspoon oil
 - Salt to taste
 - 1 teaspoon red chilly powder
 - 1 tablespoon coriander seeds crushed
 - 1 teaspoon roasted cumin powder
 - 1/2 teaspoon amchur (dry mango powder)
-- 2 tablespoons fresh coriander leaves
+- 2 tablespoon fresh coriander leaves
 
 
 ## Method
