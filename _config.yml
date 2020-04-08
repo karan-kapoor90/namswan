@@ -1,6 +1,7 @@
 # Site
-name: 'PassionatePaprika'
-description: 'The official Passionate Paprika Website where a buddling hobbyist chef brings together her recipes fro the betterment of mankind.'
+name: 'Passionate Paprika'
+title: 'Passionate Paprika'
+description: 'The official Passionate Paprika Website where a budding hobbyist chef brings together her recipes for the betterment of mankind.'
 logo: 'assets/images/logo-small.png'
 favicon: 'assets/images/Favicon.png'
 baseurl: ''
@@ -10,6 +11,20 @@ email: 'gurmehar.277@gmail.com'
 future: false
 include: ["_pages"]
 permalink: /:title/
+url: 'https://passionatepaprika.com'
+author: 'Gurmehar Kaur'
+facebook:
+  app_id: 2889323224456031
+  publisher: 'https://www.facebook.com/Passionatepaprika/'
+  admins: 626907062
+social:
+  name: Karan Kapoor
+  links:
+  - https://facebook.com/karan.kapoor1990
+  - https://www.facebook.com/Passionatepaprika/
+  - https://www.instagram.com/passionatepaprika/
+  - https://github.com/karan-kapoor90
+google_site_verification: 'bItcPoH8FTBaYfhK6raYg3ZrtAkZPSvpVhyV8rP29AA'
 
 # Plugins
 plugins: 
