@@ -1,7 +1,7 @@
 ---
 title:  "Eggless Lemon Tart"
 metadate: "hide"
-categories: [Dessert]
+categories: [Desserts]
 image: "/assets/images/.jpg"
 ---
 
