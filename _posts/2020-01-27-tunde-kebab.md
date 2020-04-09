@@ -33,5 +33,5 @@ Literally, food of the Nawabs. These Kebabs we're originally made for a toothles
 7. Osterize the green chillies and onion.
 8. Add finely chopped green chillies and onion to the dough and mix well.  
 9. Make round, flattened balls(kebabs)
-10. Heat ghee in a kadhai and deep fry. 
+10. Heat ghee in a kadhai and deep fry till golden brown. 
 11. Serve with ulta tava paratha or rumali roti's along with onion(cut in rings) and lemon. 
