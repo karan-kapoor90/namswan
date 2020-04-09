@@ -16,7 +16,9 @@ layout: default
     			<div class="card-body">      
     				<h1 class="display-4">
     				    {{page.title}}
-            </h1>         
+            </h1>
+            
+            
             <small class="text-muted d-block mb-3">
                 {% unless page.metadate == "hide" %} 
                     {{ page.date | date: '%B %d, %Y' }} 
@@ -27,6 +29,13 @@ layout: default
             </small>
     				{{ content }}        
             
+            <p>
+              <div class="small font-italic">Follow us on social media</div>
+            </p>
+            <li class="d-inline-block ml-1 mr-1"><a target="_blank" href="https://facebook.com/Passionatepaprika/" class="text-dark"><i class="fab fa-facebook-f fa-lg"></i></a>
+            </li>
+            
+            <li class="d-inline-block ml-1 mr-1"><a target="_blank" href="https://www.instagram.com/passionatepaprika/" class="text-dark"><i class="fab fa-instagram fa-lg text-danger"></i></a></li>
             <!--
             {% if page.visit %}
             <p><a target="_blank" href="{{page.visit}}" class="btn btn-gray d-block font-weight-bold ">
