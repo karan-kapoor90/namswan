@@ -2,10 +2,10 @@
 title:  "Paper Plain Dosa"
 metadate: "hide"
 categories: [Breads]
-image: "/assets/images/.jpg"
+image: "/assets/images/paper-plain-dosa.jpg"
 ---
 
-Intro/ insta desc 
+We're learning the south Indias most basic bread. Dosa is now our go to favourite. 
 
 ## Ingredients
 
