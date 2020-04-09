@@ -5,7 +5,7 @@ categories: [ ]
 image: "/assets/images/Rajma-with-maggie-bhuna-masala.jpg"
 ---
 
-Intro/ insta desc 
+This has to be the easiest sunday meal every!
 
 ## Ingredients
 
