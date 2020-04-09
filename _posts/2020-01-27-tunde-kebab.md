@@ -1,7 +1,7 @@
 ---
 title:  "Tunde Kebab"
 metadate: "hide"
-categories: [Non-vegetarian ]
+categories: [Non-Vegetarian ]
 image: "/assets/images/tunde-kebab.jpg"
 ---
 

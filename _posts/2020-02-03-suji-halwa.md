@@ -1,7 +1,7 @@
 ---
 title:  "Suji Halwa (Navratri Prasad)"
 metadate: "hide"
-categories: [Dessert]
+categories: [Desserts]
 image: "/assets/images/suji-halwa.jpg"
 ---
 
