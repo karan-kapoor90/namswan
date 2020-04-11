@@ -33,6 +33,7 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-compress-images
+  - jekyll-minifier
  
 # Defaults
 defaults:
@@ -57,6 +58,9 @@ highlighter: rouge
 # Pagination
 paginate: 20
 
+jekyll-minifier:
+  uglifier_args:
+    harmony: true
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]

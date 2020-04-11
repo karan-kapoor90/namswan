@@ -1,2 +1,3 @@
 #!bin/bash
-bundle exec jekyll serve
+export JEKYLL_ENV="production"
+bundle exec jekyll serve --trace
