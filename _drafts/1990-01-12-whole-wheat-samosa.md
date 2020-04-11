@@ -2,7 +2,7 @@
 title:  "Samosa"
 metadate: "hide"
 categories: [Snack]
-image: "/assets/images/samosa.jpg"
+image: "/assets/images/used/samosa.jpg"
 ---
 
 Just the comfort food you need on a rainy day, with tea offcourse! 

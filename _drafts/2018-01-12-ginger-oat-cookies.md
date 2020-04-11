@@ -2,7 +2,7 @@
 title:  "Ginger Oat Cookies"
 metadate: "hide"
 categories: [Snacks]
-image: "/assets/images/.jpg"
+image: "/assets/images/used/.jpg"
 ---
 
 Intro/ insta desc 

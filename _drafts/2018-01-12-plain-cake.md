@@ -2,7 +2,7 @@
 title:  "Plain Cake"
 metadate: "hide"
 categories: [ ]
-image: "/assets/images/.jpg"
+image: "/assets/images/used/.jpg"
 ---
 
 Intro/ insta desc 

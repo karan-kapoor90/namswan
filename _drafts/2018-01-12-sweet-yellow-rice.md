@@ -2,7 +2,7 @@
 title:  "Sweet Yellow Rice"
 metadate: "hide"
 categories: [Dessert]
-image: "/assets/images/.jpg"
+image: "/assets/images/used/.jpg"
 ---
 
 Intro/ insta desc 

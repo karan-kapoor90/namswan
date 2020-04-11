@@ -2,7 +2,7 @@
 title:  "Aloo Gobhi"
 metadate: "hide"
 categories: [Dry,Vegetarian]
-image: "/assets/images/.jpg"
+image: "/assets/images/used/.jpg"
 ---
 
 Getting married, learn aloo gobhi first:P

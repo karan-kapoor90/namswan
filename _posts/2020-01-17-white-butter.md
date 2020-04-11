@@ -2,7 +2,7 @@
 title:  "White Butter"
 metadate: "hide"
 categories: [Accompaniments]
-image: "/assets/images/white-butter.jpg"
+image: "/assets/images/used/white-butter.jpg"
 ---
 
 Desi version of butter! it's a dallop of happiness that melts in your mouth and touches the soul. Like we call it, it's soul food.

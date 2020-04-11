@@ -2,7 +2,7 @@
 title:  "Instant Green Chilly Pickle"
 metadate: "hide"
 categories: [Accompaniments]
-image: "/assets/images/instant-green-chilly-pickle.jpg"
+image: "/assets/images/used/instant-green-chilly-pickle.jpg"
 ---
 
 This pickle is our go to favourite. Made with less oil and lots of dry spices, it makes a perfect accompaniment to every meal.  

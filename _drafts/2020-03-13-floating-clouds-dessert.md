@@ -2,7 +2,7 @@
 title:  "Floating Clouds Dessert"
 metadate: "hide"
 categories: [ ]
-image: "/assets/images/floating-clouds-dessert.jpg"
+image: "/assets/images/used/floating-clouds-dessert.jpg"
 ---
 
 Intro/ insta desc 

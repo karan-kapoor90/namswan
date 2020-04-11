@@ -2,7 +2,7 @@
 title:  "Rice Papad"
 metadate: "hide"
 categories: [Sides]
-image: "/assets/images/rice-papad.jpg"
+image: "/assets/images/used/rice-papad.jpg"
 ---
 
 Made from Rice flour, these fried papad are light and yummy, a treat that's always. 

@@ -2,7 +2,7 @@
 title:  "Eggless Chocolate Cake"
 metadate: "hide"
 categories: [Desserts ]
-image: "/assets/images/eggless-chocolate-cake.jpg"
+image: "/assets/images/used/eggless-chocolate-cake.jpg"
 ---
 
 Double the taste and no eggs, this one a hit with all our vegetarian friends. 

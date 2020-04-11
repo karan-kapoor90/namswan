@@ -2,10 +2,10 @@
 name: 'Passionate Paprika'
 title: 'Passionate Paprika'
 description: 'The official Passionate Paprika Website where a budding hobbyist chef brings together her recipes for the betterment of mankind.'
-logo: 'assets/images/logo-small.png'
-favicon: 'assets/images/Favicon.png'
+logo: 'assets/images/used/logo-small.png'
+favicon: 'assets/images/used/Favicon.png'
 baseurl: ''
-avatar: 'assets/images/sal.jpg'
+avatar: 'assets/images/used/sal.jpg'
 disqus: 'passionatepaprika'
 email: 'gurmehar.277@gmail.com'
 future: false

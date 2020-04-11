@@ -2,7 +2,7 @@
 title:  "Eggless Lemon Tart"
 metadate: "hide"
 categories: [Desserts]
-image: "/assets/images/.jpg"
+image: "/assets/images/used/.jpg"
 ---
 
 A classic dessert fit for royalty!  

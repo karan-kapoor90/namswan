@@ -2,7 +2,7 @@
 title:  "Grilled Sandwiches"
 metadate: "hide"
 categories: [Vegetarian ]
-image: "/assets/images/grilled-sandwiches.jpg"
+image: "/assets/images/used/grilled-sandwiches.jpg"
 ---
 
 Intro/ insta desc 

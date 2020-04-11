@@ -2,7 +2,7 @@
 title:  "Rajma with Maggie Bhuna Masala"
 metadate: "hide"
 categories: [Vegetarian]
-image: "/assets/images/Rajma-with-maggie-bhuna-masala.jpg"
+image: "/assets/images/used/Rajma-with-maggie-bhuna-masala.jpg"
 ---
 
 This has to be the easiest sunday meal every!
