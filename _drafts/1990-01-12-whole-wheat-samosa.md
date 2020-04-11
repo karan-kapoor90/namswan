@@ -9,7 +9,7 @@ Just the comfort food you need on a rainy day, with tea offcourse!
 
 ## Ingredients
 ### For Covering
-- 2 cup Refined Flour (maida)
+- 2 cup Whole Wheat Flour (Atta)
 - 1/4th Teaspoon Carrom Seeds (Ajwain)
 - 1/2 Teaspoon Salt
 - 1/4th Cup Oil
