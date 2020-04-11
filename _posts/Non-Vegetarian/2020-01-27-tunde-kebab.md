@@ -5,7 +5,7 @@ categories: [Non-Vegetarian ]
 image: "/assets/images/tunde-kebab.jpg"
 ---
 
-Literally, food of the Nawabs. These Kebabs we're originally made for a toothless king. His love for Kebabs drove him to find a recipie where the Kebab would melt in your mouth. And oh this one does. It's food for the soul and every non-vegetarian food lovers dream come true.
+Literally, food of the Nawabs. These Kebabs were originally made for a toothless king. His love for Kebabs drove him to find a recipie where the Kebab would melt in the mouth. And oh, this one does. It's food for the soul and every non-vegetarian food lover's dream come true.
 
 ## Ingredients
 
