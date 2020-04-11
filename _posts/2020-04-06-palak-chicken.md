@@ -1,11 +1,11 @@
 ---
 title:  "Palak Chicken"
 metadate: "hide"
-categories: [ Non-Vegetarian]
-image: "/assets/images/.jpg"
+categories: [Non-Vegetarian]
+image: "/assets/images/palak-chicken.jpg"
 ---
 
-Intro/ insta desc 
+The goodness of Spinach and the yumminess of the chicken, this dish is the perfect candidate for #fitnotthin
 
 ## Ingredients
 
