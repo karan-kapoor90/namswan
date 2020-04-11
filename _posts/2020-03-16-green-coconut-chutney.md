@@ -4,9 +4,10 @@ metadate: "hide"
 categories: [Accompaniments ]
 image: "/assets/images/green-coconut-chutney.jpg"
 
-Refreshing twist to the regular coconut chutney served with most south indian cuisine.
-  
 ---
+
+Refreshing twist to the regular coconut chutney served with most south indian cuisine.
+
 ## Ingredients
 
 1. 1 cup fresh/ frozen coconut
@@ -21,8 +22,7 @@ Refreshing twist to the regular coconut chutney served with most south indian cu
 10. 1/2 teaspoon mustard seeds
 11. 1/2 teaspoon urad dal (black gram)
 12. Pinch heeng (asofoetida)
-13. 4-5 curry leaves 
-    
+13. 4-5 curry leaves     
 
 ## Method
 
