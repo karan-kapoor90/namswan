@@ -1,11 +1,11 @@
 ---
-title:  "name on site"
+title:  "Whole Wheat Laccha Paratha"
 metadate: "hide"
 categories: [Breads]
-image: "/assets/images/.jpg"
+image: "/assets/images/whole-wheat-laccha-paratha.jpg"
 ---
 
-Everytime I think of this naan, it reminds me of a party at home, my mother would make these everytime we had guests over. These were always a hit!
+Everytime I think of this paratha, it reminds me of a party at home, my mother would make these everytime we had guests over. These were always a hit!
 
 ## Ingredients
 
