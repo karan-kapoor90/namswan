@@ -22,6 +22,8 @@ Literally, food of the Nawabs. These Kebabs were originally made for a toothless
 - 3 Red Chillies
 - 5 Chopped Green Chillies
 - 100 grams Bengal gram (chana daal) soaked over night
+
+
 ## Method
 
 1. Boil meat in three cups water and salt, till the watre is absorbed and meat is tender. 
