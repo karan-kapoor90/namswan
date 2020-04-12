@@ -62,5 +62,8 @@ paginate: 20
 #  uglifier_args:
 #    harmony: true
 
+imageoptim:
+  svgo: false
+
 # Exclude metadata and development time dependencies (like Grunt plugins)
-exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules, _compress_images_cache.yml]
