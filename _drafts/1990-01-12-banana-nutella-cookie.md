@@ -1,7 +1,7 @@
 ---
-title:  "Kothimbir Vadi"
+title:  "name on site"
 metadate: "hide"
-categories: [Snacks]
+categories: [ ]
 image: "/assets/images/used/.jpg"
 ---
 
