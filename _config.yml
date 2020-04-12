@@ -2,10 +2,12 @@
 name: 'Passionate Paprika'
 title: 'Passionate Paprika'
 description: 'The official Passionate Paprika Website where a budding hobbyist chef brings together her recipes for the betterment of mankind.'
-logo: 'assets/images/used/logo-small.png'
-favicon: 'assets/images/used/Favicon.png'
+logo: 'assets/images/logo/logo-small.png'
+favicon: 'assets/images/logo/Favicon.png'
+imageBaseURL: '/assets/images/used/'
+homeImageURL: '/assets/images/homepage/'
 baseurl: ''
-avatar: 'assets/images/used/sal.jpg'
+avatar: 'assets/images/logo/sal.jpg'
 disqus: 'passionatepaprika'
 email: 'gurmehar.277@gmail.com'
 future: false
@@ -62,5 +64,8 @@ paginate: 20
 #  uglifier_args:
 #    harmony: true
 
+imageoptim:
+  svgo: false
+
 # Exclude metadata and development time dependencies (like Grunt plugins)
-exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules, _compress_images_cache.yml]

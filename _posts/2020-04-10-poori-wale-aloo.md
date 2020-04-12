@@ -2,7 +2,7 @@
 title:  "Poori Wale Aloo"
 metadate: "hide"
 categories: [Vegetarian]
-image: "/assets/images/used/poori-wale-aloo.jpg"
+image: "poori-wale-aloo.jpg"
 ---
 
 I've got this recipe from my masi, it's the classic poori wale aloo and they're absolutely yum!

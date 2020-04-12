@@ -2,7 +2,7 @@
 title:  "Dry Kale Chaney Recipe(Navratri special)"
 metadate: "hide"
 categories: [ Vegetarian]
-image: "/assets/images/used/navratri-chole.jpg"
+image: "navratri-chole.jpg"
 ---
 
 Take a trip down memory lane with these Navratri Chole, Suji Halwa and poori. Sigh!nostalgia.. 

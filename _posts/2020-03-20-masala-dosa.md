@@ -2,7 +2,7 @@
 title:  "Masala Dosa"
 metadate: "hide"
 categories: [Vegetarian]
-image: "/assets/images/used/masala-dosa.jpg"
+image: "masala-dosa.jpg"
 ---
 
 A thin crispy crepe made using fermented rice and lentil batter, one that has spiced potato stuffing, in short MASALA DOSA!

@@ -2,7 +2,7 @@
 title:  "Green Coconut Chutney"
 metadate: "hide"
 categories: [Accompaniments ]
-image: "/assets/images/used/green-coconut-chutney.jpg"
+image: "green-coconut-chutney.jpg"
 
 ---
 

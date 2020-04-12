@@ -2,7 +2,7 @@
 title:  "Chocolate Walnut Brownie"
 metadate: "hide"
 categories: [Desserts ]
-image: "/assets/images/used/.jpg"
+image: ".jpg"
 ---
 
 This is love with every bite!

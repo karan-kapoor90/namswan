@@ -2,7 +2,7 @@
 title:  "Butter Chicken with Maggie Bhuna Masala"
 metadate: "hide"
 categories: [Non-Vegetarian]
-image: "/assets/images/used/butter-chicken-with-maggie-bhuna-masala-.jpg"
+image: "butter-chicken-with-maggie-bhuna-masala-.jpg"
 ---
 
 North India's most famous famous non-vegetarian dish. Mister loves it so much we'd be eating it thrice a day, that's if he had his way! This is my moms recipe and isn't 1/4th the effort it usually takes. Easy peasy cooking. Our most loved recipe. 

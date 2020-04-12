@@ -2,7 +2,7 @@
 title:  "Dalgona Coffee"
 metadate: "hide"
 categories: [Drinks]
-image: "/assets/images/used/dalgona-coffee.jpg"
+image: "dalgona-coffee.jpg"
 ---
 
 A new twist to the classic beaten coffee. We had to give into this trend and I must say we LOVED IT!!

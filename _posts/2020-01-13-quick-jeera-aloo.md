@@ -2,7 +2,7 @@
 title:  "Quick Jeera Aloo"
 metadate: "hide"
 categories: [Vegetarian]
-image: "/assets/images/used/quick-jeera-aloo.jpg"
+image: "quick-jeera-aloo.jpg"
 ---
 
 This dish is the simplest and most loved recipe, straight from the heart of north India. 

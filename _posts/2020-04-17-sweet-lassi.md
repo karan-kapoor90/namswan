@@ -2,7 +2,7 @@
 title:  "Sweet Lassi"
 metadate: "hide"
 categories: [Drinks]
-image: "/assets/images/used/sweet-lassi.jpg"
+image: "sweet-lassi.jpg"
 ---
 
 This yogurt based drink is perfect drink to be consumed with a sunday brunch followed by a long afternoon siesta :P

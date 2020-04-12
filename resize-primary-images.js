@@ -2,8 +2,9 @@ const sharp = require('sharp');
 const fs = require('fs');
 const path = require( 'path' );
 
-const moveFrom = __dirname+"/assets/images";
+const moveFrom = __dirname+"/assets/images/";
 const moveTo = __dirname+"/assets/images/used";
+const tempLocation = __dirname+"/assets/images/temp";
 
 // Make an async function that gets executed immediately
 (async ()=>{
@@ -17,29 +18,31 @@ const moveTo = __dirname+"/assets/images/used";
             // Get the full paths
             const fromPath = path.join( moveFrom, file );
             const toPath = path.join( moveTo, file );
-
+            const tempPath = path.join( tempLocation, file );
             // Stat the file to see if we have a file or dir
             const stat = await fs.promises.stat( fromPath );
 
-            if( stat.isFile() )
-            sharp(fromPath)
+            if( stat.isFile() ) {
+            // resize from the base directory into used
+                sharp(fromPath)
                 .resize(930)
                 .toBuffer()
                 .then( data => {
-                    const mymap =fs.readdirSync(moveTo).map(fileName => {
+                    const mymap =fs.readdirSync(moveFrom).map(fileName => {
                         console.log(moveTo,fileName);
                         return path.join(moveTo, fileName)
                       });
                     
                     fs.writeFileSync(toPath, data);
-                    // fs.unlinkSync(fromPath);
+                    fs.writeFileSync(tempPath, data);
+                    fs.unlinkSync(fromPath);
                 })
                 .catch( err => {
                     console.log(err);
                 });
                 
-            else if( stat.isDirectory() )
-                console.log( "'%s' is a directory.", fromPath );
+            } else if( stat.isDirectory() )
+                console.log( "'%s' is a directory.", toPath );
 
             // Now move async
             // await fs.promises.rename( fromPath, toPath );

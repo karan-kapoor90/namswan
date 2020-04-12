@@ -2,7 +2,7 @@
 title:  "Aachari Pyaz"
 metadate: "hide"
 categories: [Accompaniments]
-image: "/assets/images/used/aachari-pyaz.jpg"
+image: "aachari-pyaz.jpg"
 ---
 
 This is the one thing that completes any Indian meal.  

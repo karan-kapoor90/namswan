@@ -2,7 +2,7 @@
 title:  "Cooked Rice"
 metadate: "hide"
 categories: [Sides ]
-image: "/assets/images/used/cooked-rice.jpg"
+image: "cooked-rice.jpg"
 ---
 
 The perfect accompaniment to every Indian gravy.  

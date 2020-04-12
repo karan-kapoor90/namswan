@@ -2,7 +2,7 @@
 title:  "Suji Halwa (Navratri Prasad)"
 metadate: "hide"
 categories: [Desserts]
-image: "/assets/images/used/suji-halwa.jpg"
+image: "suji-halwa.jpg"
 ---
 
 Take a trip down memory lane with these Navratri Chole, Suji Halwa and poori. Sigh!nostalgia..
