@@ -5,7 +5,7 @@ categories: [Desserts ]
 image: "/assets/images/used/chocolate-walnut-brownie.jpg"
 ---
 
-Our childhood go to food!I got this recipie from my Paternal aunt. Even now anytime and anywhere someone mentions a brownie, I drool a little, yeh even now! Damn growing up. 
+Our childhood go to food!I got this recipe from my Paternal aunt. Even now anytime and anywhere someone mentions a brownie, I drool a little, yeh even now! Damn growing up. 
 
 ## Ingredients
 

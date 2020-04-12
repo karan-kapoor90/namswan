@@ -5,7 +5,7 @@ categories: [Accompaniments]
 image: "/assets/images/used/white-butter.jpg"
 ---
 
-Desi version of butter! it's a dallop of happiness that melts in your mouth and touches the soul. Like we call it, it's soul food.
+Desi version of butter! it's a dollop of happiness that melts in your mouth and touches the soul. Like we call it, it's soul food.
 
 ## Ingredients
 
