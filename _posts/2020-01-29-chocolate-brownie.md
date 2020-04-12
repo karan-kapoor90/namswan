@@ -1,8 +1,8 @@
 ---
-title:  "Chocolate Walnut Brownie"
+title:  "Chocolate Brownie"
 metadate: "hide"
 categories: [Desserts ]
-image: "/assets/images/used/chocolate-brownie.jpg"
+image: "/assets/images/used/Chocolate-brownie.jpg"
 ---
 
 This is love with every bite!
