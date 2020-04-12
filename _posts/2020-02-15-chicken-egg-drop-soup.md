@@ -2,7 +2,8 @@
 title:  "Chicken Egg Drop Soup"
 metadate: "hide"
 categories: [Drinks]
-image: "/assets/images/used/chicken-egg-drop-soup.jpg
+image: "/assets/images/used/chicken-egg-drop-soup.jpg"
+
 ---
 
 It's light and full of flavour, it doesn't just tingle your tastebuds but also your sense of smell.
