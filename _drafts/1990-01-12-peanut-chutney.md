@@ -1,8 +1,8 @@
 ---
-title:  "name on site"
+title:  "Peanut Chutney"
 metadate: "hide"
-categories: [ ]
-image: "/assets/images/used/.jpg"
+categories: [Accompaniments]
+image: "/assets/images/used/peanut-chutney.jpg"
 ---
 
 Intro/ insta desc 
