@@ -5,7 +5,7 @@ categories: [Drinks]
 image: "/assets/images/used/chicken-egg-drop-soup.jpg"
 ---
 
-Its light an dfull of flavour, it doesn't just tingle your tastebuds but also your sense of smell.
+Its light and full of flavour, it doesn't just tingle your tastebuds but also your sense of smell.
 
 ## Ingredients
 
