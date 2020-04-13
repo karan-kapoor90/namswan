@@ -5,7 +5,7 @@ categories: [Bakery]
 image: "/assets/images/used/banana-choco-chunk-cookie.jpg"
 ---
 
-- These bring out the cookie monster in us.
+These bring out the cookie monster in us.
 
 ## Ingredients
 
