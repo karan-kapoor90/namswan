@@ -12,7 +12,7 @@ Want to try making something new or delicious today? Maybe surprise your wife or
 
 We love keeping cooking simple, easy and fun, and we hope this website helps you do the same! 
 
-**PS:** Give us a shoutout on social media, or share our content. It takes a lot fo time and effort to put this out to the world, and we hope you'd help us spread the love!
+**PS:** Give us a shoutout on social media, or share our content. It takes a lot of time and effort to put this out to the world, and we hope you'd help us spread the love!
 
 Peace 
 <i class="fa fa-hand-peace"></i>
