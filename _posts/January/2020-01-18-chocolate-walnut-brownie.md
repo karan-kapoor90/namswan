@@ -1,7 +1,7 @@
 ---
 title:  "Chocolate Walnut Brownie"
 metadate: "hide"
-categories: [Desserts ]
+categories: [Bakery]
 image: "/assets/images/used/chocolate-walnut-brownie.jpg"
 ---
 

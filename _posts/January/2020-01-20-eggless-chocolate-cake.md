@@ -1,7 +1,7 @@
 ---
 title:  "Eggless Chocolate Cake"
 metadate: "hide"
-categories: [Desserts ]
+categories: [Bakery]
 image: "/assets/images/used/eggless-chocolate-cake.jpg"
 ---
 

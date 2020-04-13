@@ -1,7 +1,7 @@
 ---
 title:  "Bread Pudding"
 metadate: "hide"
-categories: [Desserts ]
+categories: [Desserts]
 image: "/assets/images/used/bread-pudding.jpg"
 ---
 

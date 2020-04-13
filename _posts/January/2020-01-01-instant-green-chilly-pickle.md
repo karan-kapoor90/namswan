@@ -2,7 +2,6 @@
 title:  "Instant Green Chilly Pickle"
 metadate: "hide"
 categories: [Accompaniments]
-tags: #foodphotography #foodblogger #foodbloggers #foodgasm #love #foodcoma #foodporn #foodlovers #indianfood #indianfoodbloggers #foodiesofinstagram #foodlove #indian #indiancouple #eatlocal #eathealthy #eatwell #desifood #trending #tasty #taste #yummyinmytummy #foodie #instafood #instafoodie #foodstagram #instagood #passionatepaprika
 image: "/assets/images/used/instant-green-chilly-pickle.jpg"
 ---
 
