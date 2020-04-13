@@ -1,7 +1,7 @@
 ---
 title:  "Mango Ice-cream Shake"
 metadate: "hide"
-categories: [ Desserts]
+categories: [ Drinks]
 image: "/assets/images/used/Mango-ice-cream-shake.jpg"
 ---
 
