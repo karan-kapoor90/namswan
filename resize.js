@@ -32,7 +32,7 @@ const moveTo = __dirname+"/assets/images/used";
                       });
                     
                     fs.writeFileSync(toPath, data);
-                    // fs.unlinkSync(fromPath);
+                    fs.unlinkSync(fromPath);
                 })
                 .catch( err => {
                     console.log(err);

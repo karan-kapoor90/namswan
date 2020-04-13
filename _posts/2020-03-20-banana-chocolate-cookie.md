@@ -2,7 +2,7 @@
 title:  "Banana Choco Chunk Cookies"
 metadate: "hide"
 categories: [Bakery]
-image: "/assets/images/used/banana-choco-chunk-cookies.jpg"
+image: "/assets/images/used/banana-choco-chunk-cookie.jpg"
 ---
 
 - These bring out the cookie monster in us.
