@@ -21,7 +21,7 @@
         </span>
 
          <span class="gotopost">
-             <a href="{{site.baseurl}}{{post.url}}" class="text-dark"><i class="fa fa-arrow-circle-right"></i> More
+             <a href="{{site.baseurl}}{{post.url}}" class="text-dark test"><i class="fa fa-arrow-circle-right"></i> More
              </a>
          </span> 
 
@@ -50,6 +50,11 @@
          </a>
     
     {% endif %}
-        
-   
+    <script>
+        $(".wrapcat").click(function(){
+            window.location = $(this).find("a.test").attr("href");
+            console.log(window.location);
+            return false;
+        });
+    </script>
 </div>
