@@ -2,6 +2,7 @@
 title:  "Dal ka Paratha"
 metadate: "hide"
 categories: [Breads]
+tags: [food, foodphotography, foodblogger, foodbloggers, india, foodgasm, indianfood, love, foodcoma, foodporn,indiancooking, indianrecipe, foodlovers, indianfood, indianfoodbloggers, foodiesofinstagram, foodlove, indian, indiancouple, eatlocal, eathealthy, eatwell, desifood, trending, tasty, taste, yummyinmytummy, foodie, instafood, instafoodie, foodstagram, instagood, passionatepaprika, foodblog, easy, indian, recipe, mothersrecipe, cooking, easycooking, easyrecipe, simple, simplefood, paratha, leftovercooking, daalparatha, dalparatha, bread, pulsebread]
 image: "/assets/images/used/daal-ka-paratha.jpg"
 ---
 
@@ -27,7 +28,7 @@ Leftover dal paratha is the quickest recipe, a complete meal that can be served 
 4. Once it is mixed, add water as needed and knead into smooth and soft dough. Adjust the water quantity as per you dal consistency.
 
 ### Making dal paratha recipe
-1. Make smooth balls and flatten them between your plam and make discs.
+1. Make smooth balls and flatten them between your palm and make discs.
 2. Now work with one flatten disc at a time. Dust both the sides into the dry flour.
 3. Roll into 6-7 inch diameter circle. During the rolling process, if it sticks then you can dust with dry flour.
 4. Heat the tawa or pan on medium heat. Once hot place rolled paratha on it.

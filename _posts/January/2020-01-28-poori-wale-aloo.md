@@ -2,6 +2,7 @@
 title:  "Poori Wale Aloo"
 metadate: "hide"
 categories: [Vegetarian]
+tags: [food, foodphotography, foodblogger, foodbloggers, india, foodgasm, indianfood, love, foodcoma, foodporn,indiancooking, indianrecipe, foodlovers, indianfood, indianfoodbloggers, foodiesofinstagram, foodlove, indian, indiancouple, eatlocal, eathealthy, eatwell, desifood, trending, tasty, taste, yummyinmytummy, foodie, instafood, instafoodie, foodstagram, instagood, passionatepaprika, foodblog, easy, indian, recipe, mothersrecipe, cooking, easycooking, easyrecipe, simple, simplefood, poorialoo, aloopuri, indiancooking, easycooking, easycook, lazaycook]
 image: "/assets/images/used/poori-wale-aloo.jpg"
 ---
 

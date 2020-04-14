@@ -2,6 +2,7 @@
 title:  "Sweet Lassi"
 metadate: "hide"
 categories: [Drinks]
+tags: [food, foodphotography, foodblogger, foodbloggers, india, foodgasm, indianfood, love, foodcoma, foodporn,indiancooking, indianrecipe, foodlovers, indianfood, indianfoodbloggers, foodiesofinstagram, foodlove, indian, indiancouple, eatlocal, eathealthy, eatwell, desifood, trending, tasty, taste, yummyinmytummy, foodie, instafood, instafoodie, foodstagram, instagood, passionatepaprika, foodblog, easy, indian, recipe, mothersrecipe, cooking, easycooking, easyrecipe, simple, simplefood, drinks, sweetlassi, indiandrink, easydrink]
 image: "/assets/images/used/sweet-lassi.jpg"
 ---
 
@@ -22,7 +23,7 @@ This yogurt based drink is perfect drink to be consumed with a sunday brunch fol
 3. Add ice cold water to bring the lassi to the consistency you like.
 4. Add the sugar and mix till it dissolves.
 5. Add rose water if you want to. 
-6. Keeep whisking(by hand or blender) till a frothy layer is formed. 
+6. Keep whisking(by hand or blender) till a frothy layer is formed. 
 7. Add cream for a richer taste. 
 8. Give it a good stir.
 9. Serve in a tall glass.  

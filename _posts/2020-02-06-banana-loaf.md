@@ -2,6 +2,7 @@
 title:  "Banana Loaf"
 metadate: "hide"
 categories: [Bakery]
+tags: [food, foodphotography, foodblogger, foodbloggers, india, foodgasm, indianfood, love, foodcoma, foodporn,indiancooking, indianrecipe, foodlovers, indianfood, indianfoodbloggers, foodiesofinstagram, foodlove, indian, indiancouple, eatlocal, eathealthy, eatwell, desifood, trending, tasty, taste, yummyinmytummy, foodie, instafood, instafoodie, foodstagram, instagood, passionatepaprika, foodblog, easy, indian, recipe, mothersrecipe, cooking, easycooking, easyrecipe, simple, simplefood, bananaloaf, bakery, easybake, easybaking]
 image: "/assets/images/used/banana-loaf.jpg"
 ---
 
@@ -28,7 +29,7 @@ Classic english loaf, with a twist of banana.
 3. Mix with beater or hand (don't beat too hard)
 4. Mix walnuts and honey together,add to batter.
 5. Line the cake tin with oil and flour. 
-6. Fill the tin upto half way and bake for 40 minutes at 180 degrees. 
+6. Fill the tin up to half way and bake for 40 minutes at 180 degrees. 
 7. Let it cool and then remove from tin. 
 
 

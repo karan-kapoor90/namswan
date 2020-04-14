@@ -2,6 +2,7 @@
 title:  "Whole Wheat Laccha Paratha"
 metadate: "hide"
 categories: [Breads]
+tags: [food, foodphotography, foodblogger, foodbloggers, india, foodgasm, indianfood, love, foodcoma, foodporn,indiancooking, indianrecipe, foodlovers, indianfood, indianfoodbloggers, foodiesofinstagram, foodlove, indian, indiancouple, eatlocal, eathealthy, eatwell, desifood, trending, tasty, taste, yummyinmytummy, foodie, instafood, instafoodie, foodstagram, instagood, passionatepaprika, foodblog, easy, indian, recipe, mothersrecipe, cooking, easycooking, easyrecipe, simple, simplefood, lacchaparatha, wheatparatha, indianbread, breads, attaroti]
 image: "/assets/images/used/whole-wheat-laccha-paratha.jpg"
 ---
 
@@ -18,7 +19,7 @@ Everytime I think of this paratha, it reminds me of a party at home, my mother w
 
 ## Method
 
-1. For the dough, take a large bowl. Add att and sugar to it mix. 
+1. For the dough, take a large bowl. Add atta and sugar to it mix. 
 2. Add the oil to this and crumble well with your hands, oil should be equally spread.
 3. Add milk and start kneading. 
 4. Add water and knead into a smooth dough.
