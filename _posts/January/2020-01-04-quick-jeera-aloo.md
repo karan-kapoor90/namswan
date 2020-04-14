@@ -2,6 +2,7 @@
 title:  "Quick Jeera Aloo"
 metadate: "hide"
 categories: [Vegetarian]
+tags: [food, foodphotography, foodblogger, foodbloggers, india, foodgasm, indianfood, love, foodcoma, foodporn,indiancooking, indianrecipe, foodlovers, indianfood, indianfoodbloggers, foodiesofinstagram, foodlove, indian, indiancouple, eatlocal, eathealthy, eatwell, desifood, trending, tasty, taste, yummyinmytummy, foodie, instafood, instafoodie, foodstagram, instagood, passionatepaprika, foodblog, easy, indian, recipe, mothersrecipe, cooking, easycooking, easyrecipe, simple, simplefood, quickjeeraaloo, jeeraaloo, aloo, aloorecipe, easyjeeraaloo]
 image: "/assets/images/used/quick-jeera-aloo.jpg"
 ---
 
@@ -17,7 +18,7 @@ This dish is the simplest and most loved recipe, straight from the heart of nort
 - 1 Teaspoon Roasted Cumin Powder
 - 1/2 Teaspoon Amchur (dry mango powder)
 - 2 Tablespoon fresh Coriander Leaves(optional)
-- 1/4 Teaspoon Turmeric (Haldi)
+- 1/4 Teaspoon Turmeric ( Haldi )
 
 
 ## Method

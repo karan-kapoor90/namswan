@@ -27,6 +27,6 @@ ILearnt how to make the chilly chutney that we get with momos. Its not that diff
 2. Add very little water and boil the chillies and onion till it is tender. 
 3. Strain and blend coarsely along with some oil and salt. 
 4. Heat remaining oil and chopped ginger, garlic and cook a little. 
-5. Add the paste and bhunno it. 
+5. Add the paste and bhuno it. 
 6. Add rest of the ingredients and cook till oil surfaces.
 

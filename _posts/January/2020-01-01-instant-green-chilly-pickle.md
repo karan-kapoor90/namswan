@@ -2,6 +2,7 @@
 title:  "Instant Green Chilly Pickle"
 metadate: "hide"
 categories: [Accompaniments]
+tags: [food, foodphotography, foodblogger, foodbloggers, india, foodgasm, indianfood, love, foodcoma, foodporn,indiancooking, indianrecipe, foodlovers, indianfood, indianfoodbloggers, foodiesofinstagram, foodlove, indian, indiancouple, eatlocal, eathealthy, eatwell, desifood, trending, tasty, taste, yummyinmytummy, foodie, instafood, instafoodie, foodstagram, instagood, passionatepaprika, foodblog, easy, indian, recipe, mothersrecipe, cooking, easycooking, easyrecipe, simple, simplefood, greenchillypickle, pickles, easypickle, instantpickle, pickle, chillypickle]
 image: "/assets/images/used/instant-green-chilly-pickle.jpg"
 ---
 
@@ -9,7 +10,7 @@ This pickle is our go to favourite. Made with less oil and lots of dry spices, i
 
 ## Ingredients
 
-- 100 grams Green Chiilies
+- 100 grams Green Chillies
 - 3 Teaspoon Roasted Fennel seeds (saunf)
 - 1.5 Teaspoon Fenugreek seeds (Methidaana/methre)
 - 1 Teaspoon Cumin seeds (Jeera)
@@ -18,7 +19,7 @@ This pickle is our go to favourite. Made with less oil and lots of dry spices, i
 - 4 Teaspoon Mustard oil
 - 4 Teaspoon white vinegar (or any other variety will also work)
 - 1 Teaspoon Turmeric Powder (Haldi)
-- 1/4th Teaspoon Asafetida (heeng)
+- 1/4th Teaspoon Asafetida (Heeng)
 
 ## Method
 
