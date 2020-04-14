@@ -2,11 +2,12 @@
 title:  "Green Coconut Chutney"
 metadate: "hide"
 categories: [Accompaniments ]
+tags: [food, foodphotography, foodblogger, foodbloggers, india, foodgasm, indianfood, love, foodcoma, foodporn,indiancooking, indianrecipe, foodlovers, indianfood, indianfoodbloggers, foodiesofinstagram, foodlove, indian, indiancouple, eatlocal, eathealthy, eatwell, desifood, trending, tasty, taste, yummyinmytummy, foodie, instafood, instafoodie, foodstagram, instagood, passionatepaprika, foodblog, easy, indian, recipe, mothersrecipe, cooking, easycooking, easyrecipe, simple, simplefood, chutney, southindian, coconutchutney, coriander, accompaniments, indianchutney, southfood, ]
 image: "/assets/images/used/green-coconut-chutney.jpg"
 
 ---
 
-Refreshing twist to the regular coconut chutney served with most south indian cuisine.
+Refreshing twist to the regular coconut chutney served with most south Indian cuisine.
 
 ## Ingredients
 
