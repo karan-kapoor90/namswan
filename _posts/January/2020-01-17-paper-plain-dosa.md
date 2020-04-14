@@ -2,6 +2,7 @@
 title:  "Paper Plain Dosa"
 metadate: "hide"
 categories: [Breads]
+tags: [food, foodphotography, foodblogger, foodbloggers, india, foodgasm, indianfood, love, foodcoma, foodporn,indiancooking, indianrecipe, foodlovers, indianfood, indianfoodbloggers, foodiesofinstagram, foodlove, indian, indiancouple, eatlocal, eathealthy, eatwell, desifood, trending, tasty, taste, yummyinmytummy, foodie, instafood, instafoodie, foodstagram, instagood, passionatepaprika, foodblog, easy, indian, recipe, mothersrecipe, cooking, easycooking, easyrecipe, simple, simplefood, dosa, southindian, indianbread, easydosa]
 image: "/assets/images/used/paper-plain-dosa.jpg"
 ---
 
@@ -22,7 +23,7 @@ We're learning the south Indias most basic bread. Dosa is now our go to favourit
 2. Soak urad dal for three hours seperately. 
 3. Drain water from urad dal, belend into a smooth paste. 
 4. Blend the rice and poha(add water if required to make a smooth paste)
-5. Mix urad dal batter and rice batter thouroughly. 
+5. Mix urad dal batter and rice batter thoroughly. 
 6. Cover and ferment in a warm place for 8-12 hours ( preferably over night). 
 7. The batter should rise (this indicated that it has fermented) Mix the batter.
 8. In a new bowl take the amount of batter you want to use and add salt to it(add water if the consistency is thick)

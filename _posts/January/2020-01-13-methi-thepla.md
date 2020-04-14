@@ -2,6 +2,7 @@
 title:  "Methi Thepla"
 metadate: "hide"
 categories: [Breads ]
+tags: [food, foodphotography, foodblogger, foodbloggers, india, foodgasm, indianfood, love, foodcoma, foodporn,indiancooking, indianrecipe, foodlovers, indianfood, indianfoodbloggers, foodiesofinstagram, foodlove, indian, indiancouple, eatlocal, eathealthy, eatwell, desifood, trending, tasty, taste, yummyinmytummy, foodie, instafood, instafoodie, foodstagram, instagood, passionatepaprika, foodblog, easy, indian, recipe, mothersrecipe, cooking, easycooking, easyrecipe, simple, simplefood, methithepla, thepla, easytheplarecipe, gujratifood, snacks]
 image: "/assets/images/used/methi-thepla.jpg"
 ---
 
@@ -22,7 +23,7 @@ Our favourite go to gujju snack! Like Kareena Kapoor Khan said in 3 Idiots "miss
 - 1/2 Teaspoon Dhaniya powder 
 - 3/4th Teaspoon Salt or as required
 - 1 Tablespoon Oil
-- 4-5 Tablespoon Yougurt or water for kneading
+- 4-5 Tablespoon Yogurt or water for kneading
 - Oil for Roasting
 
 ## Method

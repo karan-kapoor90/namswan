@@ -2,6 +2,7 @@
 title:  "Dalgona Coffee"
 metadate: "hide"
 categories: [Drinks]
+tags: [food, foodphotography, foodblogger, foodbloggers, india, foodgasm, indianfood, love, foodcoma, foodporn,indiancooking, indianrecipe, foodlovers, indianfood, indianfoodbloggers, foodiesofinstagram, foodlove, indian, indiancouple, eatlocal, eathealthy, eatwell, desifood, trending, tasty, taste, yummyinmytummy, foodie, instafood, instafoodie, foodstagram, instagood, passionatepaprika, foodblog, easy, indian, recipe, mothersrecipe, cooking, easycooking, easyrecipe, simple, simplefood, dalgonacoffee, coffee, easycoffee, drinks]
 image: "/assets/images/used/dalgona-coffee.jpg"
 ---
 
@@ -18,7 +19,7 @@ A new twist to the classic beaten coffee. We had to give into this trend and I m
 ## Method
 
 1. Add instant coffee powder and sugar and bowl(the bowl must be 3-5 times the amount of coffee and sugar, it expands after beating)
-2. Add 2 Tablespoons water and beat the coffee and sugar vigrously untill it is light and fluffy and all the sugar dissolves. 
+2. Add 2 Tablespoons water and beat the coffee and sugar vigorously until it is light and fluffy and all the sugar dissolves. 
 3. Add a few more drops of sugar if required while beating the coffee. 
 4. Fill a glass with ice cubes. 
 5. Pour milk on top (fill only 3/4th of the glass)

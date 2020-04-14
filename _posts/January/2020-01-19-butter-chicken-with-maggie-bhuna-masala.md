@@ -2,6 +2,7 @@
 title:  "Butter Chicken with Maggie Bhuna Masala"
 metadate: "hide"
 categories: [Non-Vegetarian]
+tags: [food, foodphotography, foodblogger, foodbloggers, india, foodgasm, indianfood, love, foodcoma, foodporn,indiancooking, indianrecipe, foodlovers, indianfood, indianfoodbloggers, foodiesofinstagram, foodlove, indian, indiancouple, eatlocal, eathealthy, eatwell, desifood, trending, tasty, taste, yummyinmytummy, foodie, instafood, instafoodie, foodstagram, instagood, passionatepaprika, foodblog, easy, indian, recipe, mothersrecipe, cooking, easycooking, easyrecipe, simple, simplefood, maggie, maggiemasala, butterchiciken, easybutterchicken, indiancurry,non-vegetarian, nonveg]
 image: "/assets/images/used/butter-chicken-with-maggie-bhuna-masala-.jpg"
 ---
 
@@ -18,7 +19,7 @@ North India's most famous famous non-vegetarian dish. Mister loves it so much we
 - 1/2 Teaspoon Coriander (dhaniya) Powder
 - 1/2 Teaspoon Elaichi Powder
 - 1 Teaspoon Kasturi Methi
-- 1 Pach tomato puree or 3 Tomatoes
+- 1 Pack tomato puree or 3 Tomatoes
 - 200 Grams Fresh Cream 
 
 ## Method

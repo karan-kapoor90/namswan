@@ -1,11 +1,12 @@
 ---
 title:  "Tunde Kebab"
 metadate: "hide"
-categories: [Non-Vegetarian ]
+categories: [Non-Vegetarian]
+tags: [food, foodphotography, foodblogger, foodbloggers, india, foodgasm, indianfood, love, foodcoma, foodporn,indiancooking, indianrecipe, foodlovers, indianfood, indianfoodbloggers, foodiesofinstagram, foodlove, indian, indiancouple, eatlocal, eathealthy, eatwell, desifood, trending, tasty, taste, yummyinmytummy, foodie, instafood, instafoodie, foodstagram, instagood, passionatepaprika, foodblog, easy, indian, recipe, mothersrecipe, cooking, easycooking, easyrecipe, simple, simplefood, tundekebab, kebabrecipe, easykebab]
 image: "/assets/images/used/tunde-kebab.jpg"
 ---
 
-Literally, food of the Nawabs. These Kebabs were originally made for a toothless king. His love for Kebabs drove him to find a recipie where the Kebab would melt in the mouth. And oh, this one does. It's food for the soul and every non-vegetarian food lover's dream come true.
+Literally, food of the Nawabs. These Kebabs were originally made for a toothless king. His love for Kebabs drove him to find a recipe where the Kebab would melt in the mouth. And oh, this one does. It's food for the soul and every non-vegetarian food lover's dream come true.
 
 ## Ingredients
 
@@ -14,20 +15,20 @@ Literally, food of the Nawabs. These Kebabs were originally made for a toothless
 - 1 medium size chopped onion
 - 10 pods Garlic
 - 1 inch Cinnamon (dalchini)
-- 1 inchh Ginger (adrak)
+- 1 inch Ginger (adrak)
 - 1 Teaspoon Jeera (cumin seeds)
 - 1 Tablespoon Bread Crumbs
 - 4 Cardamom (elaichi)
-- 5 Peppercorn (kalimirch)
+- 5 Peppercorn (kalimirchi)
 - 3 Red Chillies
 - 5 Chopped Green Chillies
-- 100 grams Bengal gram (chana daal) soaked over night
+- 100 grams Bengal gram (chana dal) soaked over night
 
 
 ## Method
 
-1. Boil meat in three cups water and salt, till the watre is absorbed and meat is tender. 
-2. Grind meat into a gine paste.
+1. Boil meat in three cups water and salt, till the water is absorbed and meat is tender. 
+2. Grind meat into a fine paste.
 3. Cumin seeds, elaichi, dalchini, kalimirch, red chillies, and bread crumbs and grind into a powder.
 4. Garlic, ginger, soaked gram and grind into a paste.
 5. Mix all the pastes together. 
