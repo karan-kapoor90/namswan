@@ -5,7 +5,7 @@ categories: [Breads ]
 image: "/assets/images/used/methi-thepla.jpg"
 ---
 
-Our favourite go to gujju snack! Like Kareen Kapoor Khan said in 3 Idiots "missiles jaise naam!", this one does justice with the burst of flavours in your mouth.
+Our favourite go to gujju snack! Like Kareena Kapoor Khan said in 3 Idiots "missiles jaise naam!", this one does justice with the burst of flavours in your mouth.
 
 ## Ingredients
 
