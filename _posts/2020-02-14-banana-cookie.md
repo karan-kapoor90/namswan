@@ -1,5 +1,5 @@
 ---
-title:  "name on site"
+title:  "Banana Cookie"
 metadate: "hide"
 categories: [Bakery]
 image: "/assets/images/used/banana-cookie.jpg"
