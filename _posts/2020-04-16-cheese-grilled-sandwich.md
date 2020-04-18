@@ -3,7 +3,7 @@ title:  "Cheese Grilled Sandwich"
 metadate: "hide"
 categories: [Vegetarian]
  [food, foodphotography, foodblogger, foodbloggers, india, foodgasm, indianfood, love, foodcoma, foodporn,indiancooking, indianrecipe, foodlovers, indianfood, indianfoodbloggers, foodiesofinstagram, foodlove, indian, indiancouple, eatlocal, eathealthy, eatwell, desifood, trending, tasty, taste, yummyinmytummy, foodie, instafood, instafoodie, foodstagram, instagood, passionatepaprika, foodblog, easy, indian, recipe, mothersrecipe, cooking, easycooking, easyrecipe, simple, simplefood, snacks, sandwich, paneer, cheese ]
-image: "/assets/images/used/grilled-sandwich.jpg"
+image: "/assets/images/used/grilled-sandwiches.jpg"
 ---
 
 Made with lots of veggies and equal amounts of cheese. This one's a hit with mom and kids all alike! 
