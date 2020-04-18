@@ -28,7 +28,7 @@
         <div class="showcat">
             {% for category in post.categories %}
               <a class="btn btn-sm btn-danger mb-1" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">
-                {{ category }}
+                {{ post.title }}
               </a>
             {% endfor %}
         </div>
