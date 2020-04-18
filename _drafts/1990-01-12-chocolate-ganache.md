@@ -2,7 +2,14 @@
 title:  "name on site"
 metadate: "hide"
 categories: [ ]
+tags: [food, foodphotography, foodblogger, foodbloggers, india, foodgasm, indianfood, love, foodcoma, foodporn,indiancooking, indianrecipe, foodlovers, indianfood, indianfoodbloggers, foodiesofinstagram, foodlove, indian, indiancouple, eatlocal, eathealthy, eatwell, desifood, trending, tasty, taste, yummyinmytummy, foodie, instafood, instafoodie, foodstagram, instagood, passionatepaprika, foodblog, easy, indian, recipe, mothersrecipe, cooking, easycooking, easyrecipe, simple, simplefood ]
 image: "/assets/images/used/.jpg"
+---
+---
+title:  "Macaroons"
+metadate: "hide"
+categories: [Dessert]
+image: "/assets/images/used/macaroons.jpg"
 ---
 
 Intro/ insta desc 
@@ -40,10 +47,11 @@ Bake the macarons for 17 minutes, until the feet are well-risen and the macarons
 Transfer the macarons to a wire rack to cool completely before filling.
 
 ### For Chocolate Ganache
-Place chopped chocolate in a medium heat-proof bowl. Heat the cream in a small saucepan over medium heat until it begins to gently simmer. (Do not let it come to a rapid boil– that’s too hot!) Pour over chocolate, then let it sit for 2-3 minutes to gently soften the chocolate.
-With a metal spoon or small rubber spatula, very slowly stir until completely combined and chocolate has melted. The finer you chopped the chocolate, the quicker it will melt with the cream. If it’s not melting, do not microwave it. See Troubleshooting Chocolate Ganache in blog post above.
-Ganache can be ready to use as a drizzle or you can let it sit at room temperature to cool and thicken. It will fully cool within 2 hours. Refrigerating speeds this up, but the ganache will not cool evenly. Stir it a few times as it sets in the refrigerator so it remains even and smooth.
-Once completely cool and thick, the ganache can be piped with a piping tip or scooped with a spoon. You can also beat the cooled thickened ganache with a handheld or stand mixer fitted with a whisk attachment until light in color and texture, about 4 minutes on medium-high speed.
+1. Place chopped chocolate in a medium heat-proof bowl. Heat the cream in a small saucepan over medium heat until it begins to gently simmer. (Do not let it come to a rapid boil– that’s too hot!)2. Pour over chocolate, then let it sit for 2-3 minutes to gently soften the chocolate.
+3. With a spoon, slowly stir until completely combined and chocolate has melted. The finer you chopped the chocolate, the quicker it will melt with the cream. 
+4. Ganache can be ready to use as a drizzle or you can let it sit at room temperature to cool and thicken. 
+5. It will fully cool within 2 hours. Refrigerating speeds this up, but the ganache will not cool evenly. Stir it a few times as it sets in the refrigerator so it remains even and smooth.
+6. Once completely cool and thick, the ganache can be scooped with a spoon. You can also beat the cooled thickened ganache with a handheld or stand mixer fitted with a whisk attachment until light in color and texture, about 4 minutes on medium-high speed.
 
 Add a dollop of ganache to one macaron shell. Top it with another macaron shell to create a sandwich. Repeat with remaining macaron shells and Ganache.
 Place in an airtight container for 24 hours to “bloom”.
