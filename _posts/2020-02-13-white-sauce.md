@@ -1,20 +1,7 @@
 ---
-title:  "Vegetable Bake"
+title:  "White Sauce"
 metadate: "hide"
 categories: [Vegetarian]
-image: "/assets/images/used/.jpg"
----
-
-We love this base in pasta, lasagne, baked vegetables and almost anything you can think of! And this is the yummiest way to consume your greens. 
-
-## Ingredients
-
-- 
-
-## Method
-
-1. 
-
 tags: [food, foodphotography, foodblogger, foodbloggers, india, foodgasm, indianfood, love, foodcoma, foodporn,indiancooking, indianrecipe, foodlovers, indianfood, indianfoodbloggers, foodiesofinstagram, foodlove, indian, indiancouple, eatlocal, eathealthy, eatwell, desifood, trending, tasty, taste, yummyinmytummy, foodie, instafood, instafoodie, foodstagram, instagood, passionatepaprika, foodblog, easy, indian, recipe, mothersrecipe, cooking, easycooking, easyrecipe, simple, simplefood, vegetarian, whitesauce, pasta, bake, lasagne ]
 image: "/assets/images/used/white-sauce.jpg"
 ---
@@ -44,3 +31,4 @@ We love this base in pasta, lasagne, baked vegetables and almost anything you ca
 7. Add cheese and mix till it melts. 
 
 NOTE: Can be used in pastas, lasagnes and bakes as a base sauce.  
+
