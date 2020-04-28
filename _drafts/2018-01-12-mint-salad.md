@@ -1,7 +1,7 @@
 ---
-title:  "name on site"
+title:  "Mint Salad"
 metadate: "hide"
-categories: [ ]
+categories: [Salads]
 image: "/assets/images/used/.jpg"
 ---
 
