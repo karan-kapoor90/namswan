@@ -1,16 +1,15 @@
 ---
-title:  "Steamed Chicken Momos"
+title:  "Fried chicken momos"
 metadate: "hide"
-categories: [ Non-Vegetarian]
-tags: [food, foodphotography, foodblogger, foodbloggers, india, foodgasm, indianfood, love, foodcoma, foodporn,indiancooking, indianrecipe, foodlovers, indianfood, indianfoodbloggers, foodiesofinstagram, foodlove, indian, indiancouple, eatlocal, eathealthy, eatwell, desifood, trending, tasty, taste, yummyinmytummy, foodie, instafood, instafoodie, foodstagram, instagood, passionatepaprika, foodblog, easy, indian, recipe, mothersrecipe, cooking, easycooking, easyrecipe, simple, simplefood, momos, dumplings, dumpling, momo, wonton, wontons, nonvegetarian, nonveg, steamedmomo]
-image: "/assets/images/used/steamed-momos.jpg"
+categories: [Snacks]
+image: "/assets/images/used/fried-momos.jpg"
 ---
 
 Momo, Dumpling or wonton! Call it whatever you like, we Love em' all..
 
 ## Ingredients
 
-### For Momos Dough
+### For Momo Dough
 
 - 2.5 cup refined flour
 - Salt to taste
@@ -24,8 +23,9 @@ Momo, Dumpling or wonton! Call it whatever you like, we Love em' all..
 - 1 Tablespoon fresh green chillies, chopped
 - 2 Tablespoon fresh coriander stems, chopped
 - 1 Teaspoon white pepper powder
-- 1 Tablesppon soy sauce
+- 1 Tablespoon soy sauce
 - Salt to taste
+- oil for Frying 
 
 ## Method
 
@@ -35,6 +35,7 @@ Momo, Dumpling or wonton! Call it whatever you like, we Love em' all..
 4. Add in chopped green beans, carrots and sauté for another 2 minutes, until they turn soft. Add paneer cubes, vinegar, light soy sauce, black pepper, sugar and salt.
 5. Sauté well and keep aside to cool down.
 6. Once the dough has finished resting, lightly flour a work surface, and roll out the dough into medium size thin disk. Stuff the filling into it, give the desired shape to momo and keep aside.
-7. Steam the momos for 12-15 minutes in the steamer.
+7. Fry momos on medium heat till golden brown.
 8. Remove and serve immediately with momo chutney.
+
 

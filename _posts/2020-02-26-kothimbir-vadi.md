@@ -10,14 +10,14 @@ I tried this when I had just started working in Mumbai, and I have to say, I am 
 
 ## Ingredients
 
-- Gram flour - 1 cup
-Green coriander - 1 cup (finely chopped)
-Peanuts - ¼ cup (roasted and cleaned)
-Oil - for frying kothambir vadi
-Red chilly powder - ¼ tsp
-Cumin seeds - ¼ tsp
-Turmeric powder - less then ¼ tsp
-Salt - ½ tsp (as per taste)
+- 1 Cup Gram flour 
+- Cup Green coriander (finely chopped)
+- 1/4th Cup Peanuts (roasted and cleaned)
+- Oil for frying
+- 1/4th Teaspoon Red chilly powder
+- 1/4th Teaspoon Cumin seeds 
+- Less than 1/4th Teaspoon Turmeric powder 
+- 1/2 Teaspoon Salt or as per taste)
 Garam masala powder - less then ¼ tsp
 Oil - 1 tbsp
 Lemon juice - 1 tbsp
