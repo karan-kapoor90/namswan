@@ -27,6 +27,13 @@ Cheesy and healthy at the same time, this makes the perfect Saturday night meal!
 - 1/2 Teaspoon Ginger paste
 - Oil for Tempering
 
+### For Pasta
+ 
+- 1 Cup Macaroni or pasta
+- 4 cups water
+- 2 Teaspoon Oil
+- 1/4th Teaspoon Salt or to taste
+
 ## Method
 
 ### For the White Sauce
@@ -45,5 +52,11 @@ Cheesy and healthy at the same time, this makes the perfect Saturday night meal!
 2. Add ginger and saute till it turns golden brown.
 3. Add the broccoli to this and saute for 5 minutes or till cooked on low flame.
 
-4. Combine the white Sauce and broccoli and then add Italian herbs and serve. 
-5. Serve with Garlic bread. 
+### For Pasta
+
+1. Add all ingredients to to a pot and boil it for 10 minutes or till pasta becomes tender. 
+2. Immediately rinse under cold water.
+
+1. Combine the white Sauce and broccoli and then add Italian herbs.
+2. Add Pasta to the sauce. 
+3. Serve with Garlic bread. 
