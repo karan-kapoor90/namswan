@@ -18,11 +18,11 @@ I tried this when I had just started working in Mumbai, and I have to say, I am 
 - 1/4th Teaspoon Cumin seeds 
 - Less than 1/4th Teaspoon Turmeric powder 
 - 1/2 Teaspoon Salt or as per taste)
-Garam masala powder - less then ¼ tsp
-Oil - 1 tbsp
-Lemon juice - 1 tbsp
-Green chilly - 1 (finely chopped)
-Asafoetida - 1 pinch
+- Less than 1/4th Teaspoon Garam masala powder 
+- 1 Tablespoon Oil 
+- 1 Tablespoon Lemon juice 
+- 1 Green chilly (finely chopped)
+- 1 Pinch Asafoetida 
 
 ## Method
 
