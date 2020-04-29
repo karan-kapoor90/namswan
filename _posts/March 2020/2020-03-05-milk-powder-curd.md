@@ -1,8 +1,9 @@
 ---
-title:  "Homemade Curd"
+title:  "Milk Powder Curd"
 metadate: "hide"
 categories: [Accompaniments]
-image: "/assets/images/used/curd.jpg"
+tags: [food, foodphotography, foodblogger, foodbloggers, india, foodgasm, indianfood, love, foodcoma, foodporn,indiancooking, indianrecipe, foodlovers, indianfood, indianfoodbloggers, foodiesofinstagram, foodlove, indian, indiancouple, eatlocal, eathealthy, eatwell, desifood, trending, tasty, taste, yummyinmytummy, foodie, instafood, instafoodie, foodstagram, instagood, passionatepaprika, foodblog, easy, indian, recipe, mothersrecipe, cooking, easycooking, easyrecipe, simple, simplefood ]
+image: "/assets/images/used/milk-powder-curd.jpg"
 ---
 
 This one need no introduction, and accompaniment to every meal. The perfect food choice on a hot sultry day. 
