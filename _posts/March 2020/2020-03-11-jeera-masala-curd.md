@@ -1,18 +1,25 @@
 ---
-title:  "Chocolate Peanut Butter Samosa"
+title:  "Jeera Masala Curd"
 metadate: "hide"
-categories: [Desserts]
+categories: [Accompaniments]
 tags: [food, foodphotography, foodblogger, foodbloggers, india, foodgasm, indianfood, love, foodcoma, foodporn,indiancooking, indianrecipe, foodlovers, indianfood, indianfoodbloggers, foodiesofinstagram, foodlove, indian, indiancouple, eatlocal, eathealthy, eatwell, desifood, trending, tasty, taste, yummyinmytummy, foodie, instafood, instafoodie, foodstagram, instagood, passionatepaprika, foodblog, easy, indian, recipe, mothersrecipe, cooking, easycooking, easyrecipe, simple, simplefood ]
-image: "/assets/images/used/.jpg"
+image: "/assets/images/used/jeera-masala-curd.jpg"
 ---
 
-When you're in the mood for a surprise! This is the perfect choice for when you can't decide if you want sweet or savory. Crunchy on the outside and juicy on the inside.  
+Simple and refreshing! We typically enjoy eating it with our parathas.
 
 ## Ingredients
 
-- 
+- 2 Cups curd
+- 1/4 Teaspoon Cumin (jeera) Powder
+- Pinch Black salt or Salt
+- Milk or Water to dilute (optional)
 
 ## Method
 
-1. 
+1. Whisk all ingredients together. 
+2. If the consistency is thick, add water or milk. 
+3. Refrigerate and serve cold. 
+
+Note: Adding milk gives the raita a richer note. 
 

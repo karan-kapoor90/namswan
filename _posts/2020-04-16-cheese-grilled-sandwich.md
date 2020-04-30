@@ -22,7 +22,7 @@ Made with lots of veggies and equal amounts of cheese. This one's a hit with mom
 
 ## Method
 
-1.  Heat Griller.
+1. Heat Griller.
 2. Mix all ingredients together.
 3. Spread mixture evenly on slices and make sandwiches.(you can make these and keep before hand, cover them with a wet muslin cloth and put them in the fridge)
 4. Grill sandwiches till crisp. 

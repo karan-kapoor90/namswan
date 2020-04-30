@@ -2,6 +2,7 @@
 title:  "Fried chicken momos"
 metadate: "hide"
 categories: [Snacks]
+tags: [food, foodphotography, foodblogger, foodbloggers, india, foodgasm, indianfood, love, foodcoma, foodporn,indiancooking, indianrecipe, foodlovers, indianfood, indianfoodbloggers, foodiesofinstagram, foodlove, indian, indiancouple, eatlocal, eathealthy, eatwell, desifood, trending, tasty, taste, yummyinmytummy, foodie, instafood, instafoodie, foodstagram, instagood, passionatepaprika, foodblog, easy, indian, recipe, mothersrecipe, cooking, easycooking, easyrecipe, simple, simplefood ]
 image: "/assets/images/used/fried-momos.jpg"
 ---
 
@@ -17,7 +18,7 @@ Momo, Dumpling or wonton! Call it whatever you like, we Love em' all..
 
 ### For Chicken Filling
 
-- 300 gms chicken minced
+- 300 grams chicken minced
 - 1/4 cup Green onion, finely chopped
 - 1 Tablespoon ginger garlic paste
 - 1 Tablespoon fresh green chillies, chopped
