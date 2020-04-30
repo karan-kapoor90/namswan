@@ -1,11 +1,11 @@
 ---
-title:  "name on site"
+title:  "Sabudana Khichdi"
 metadate: "hide"
-categories: [ ]
-image: "/assets/images/used/.jpg"
+categories: [Vegetarian]
+image: "/assets/images/used/sabutdana-khichdi.jpg"
 ---
 
-Intro/ insta desc 
+Sabudana Khichdi is a dish commonly made in India during the fasting season of Navratri. Spicy Sabudana Khichdi is a traditional Indian breakfast recipe which is made using sago pearls.
 
 ## Ingredients
 
