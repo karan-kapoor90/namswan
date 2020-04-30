@@ -1,7 +1,7 @@
 ---
 title: "About"
 permalink: "/about.html"
-image: "/assets/images/about.JPG"
+image: "/assets/images/used/about.JPG"
 ---
 
 Hello!!

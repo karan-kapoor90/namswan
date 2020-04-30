@@ -14,10 +14,10 @@ image: "/assets/images/used/logo-large.png"
         </div>
     </div>
 
+ <div class="crazyScroll">   
+<div class="container-fluid karan">
     
-<div class="container-fluid">
-    
-    <div class="card-columns karan">        
+    <div class="card-columns">        
         {% for post in paginator.posts %}
             {% include card-post.html %}
         {% endfor %}            
@@ -28,7 +28,7 @@ image: "/assets/images/used/logo-large.png"
         {% if paginator.total_pages > 1 %}
         <div class="pagination"> 
           {% if paginator.previous_page %}
-            <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+            <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="prev">&laquo; Prev</a>
           {% else %}
             <span class="prev">&laquo; Prev</span>
           {% endif %}
@@ -44,7 +44,7 @@ image: "/assets/images/used/logo-large.png"
           {% endfor %}
 
           {% if paginator.next_page %}
-            <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+            <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="next">Next &raquo;</a>
           {% else %}
             <span class="next">Next &raquo;</span>
           {% endif %}
@@ -53,14 +53,16 @@ image: "/assets/images/used/logo-large.png"
     </div>
     <script type="text/javascript">
       // content selector is used to extract the additional items 
-      $('.repeat').jscroll({
-          contentSelector: ".repeat",
+      $('.crazyScroll').jscroll({
+          
           nextSelector: '.next',
-          pagingSelector: 'paygee'
+          contentSelector: '.crazyScroll'
       });
       console.log('Hello world')
     </script>
 
+
+</div>
 </div>    
   
 </section>
