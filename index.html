@@ -17,13 +17,13 @@ image: "/assets/images/used/logo-large.png"
     
 <div class="container-fluid">
     
-    <div class="card-columns">        
+    <div class="card-columns karan">        
         {% for post in paginator.posts %}
             {% include card-post.html %}
         {% endfor %}            
     </div>
 
-    <div class="row justify-content-center mt-5">
+    <div class="row justify-content-center mt-5 paygee">
      <!-- Pagination links -->
         {% if paginator.total_pages > 1 %}
         <div class="pagination"> 
@@ -51,6 +51,15 @@ image: "/assets/images/used/logo-large.png"
         </div>
         {% endif %}      
     </div>
+    <script type="text/javascript">
+      // content selector is used to extract the additional items 
+      $('.repeat').jscroll({
+          contentSelector: ".repeat",
+          nextSelector: '.next',
+          pagingSelector: 'paygee'
+      });
+      console.log('Hello world')
+    </script>
 
 </div>    
   

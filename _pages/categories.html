@@ -17,6 +17,7 @@ permalink: "/categories.html"
 <div class="container-fluid">
     <div class="card-columns">
     {% for category in site.categories %}
+    
     </div> 
     
     <h3 class="mt-4 display-4" id="{{ category[0] | downcase }}"><small class="text-muted">#</small> {{ category[0] }}</h3><hr>
@@ -33,7 +34,7 @@ permalink: "/categories.html"
         {% endfor %}
         {% assign pages_list = nil %}
         {% assign group = nil %}
-
+    
     {% endfor %}
     </div>
 </div>
