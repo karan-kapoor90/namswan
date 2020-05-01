@@ -36,6 +36,7 @@ Our Non-vegetarian take on the vegetarian kadhai paneer!
 5. Add bell peppers and cook till they become a little soft. Once that is done, add cup of tomato puree and keep cooking till the tomatoes are well cooked. This will take about 4 to 5 minutes.
 6. After 4 to 5 minutes, add red chilli powder, garam masala powder, turmeric powder, salt and cook for another 3 minutes.
 7. Add chicken pieces and saute well till the masala is coated evenly over the chicken.
-8. The chicken takes about 15 to 20 minutes to cook. At the end, add a tablespoon of cream and mix well. Serve hot by garnishing it with coriander leaves.
-9. Serve the Kadhai Chicken Recipe along with laccha paratha. 
+8. Cover and cook on low flame.
+9. The chicken takes about 15 to 20 minutes to cook. At the end, add a tablespoon of cream and mix well. Serve hot by garnishing it with coriander leaves.
+10. Serve the Kadhai Chicken Recipe along with laccha paratha. 
 
