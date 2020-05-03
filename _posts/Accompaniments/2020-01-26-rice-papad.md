@@ -1,7 +1,7 @@
 ---
 title:  "Rice Papad"
 metadate: "hide"
-categories: [Sides]
+categories: [Accompaniments]
 tags: [food, foodphotography, foodblogger, foodbloggers, india, foodgasm, indianfood, love, foodcoma, foodporn,indiancooking, indianrecipe, foodlovers, indianfood, indianfoodbloggers, foodiesofinstagram, foodlove, indian, indiancouple, eatlocal, eathealthy, eatwell, desifood, trending, tasty, taste, yummyinmytummy, foodie, instafood, instafoodie, foodstagram, instagood, passionatepaprika, foodblog, easy, indian, recipe, mothersrecipe, cooking, easycooking, easyrecipe, simple, simplefood, rice, papad, papadum, friedpapad, easyfriedpapad]
 image: "/assets/images/used/rice-papad.jpg"
 ---
