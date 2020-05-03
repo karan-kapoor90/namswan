@@ -1,7 +1,7 @@
 ---
 title:  "Aachari Poori Wale Aloo"
 metadate: "hide"
-categories: [Vegetarian]
+categories: [Veg Maincourse-Curries]
 tags: [food, foodphotography, foodblogger, foodbloggers, india, foodgasm, indianfood, love, foodcoma, foodporn,indiancooking, indianrecipe, foodlovers, indianfood, indianfoodbloggers, foodiesofinstagram, foodlove, indian, indiancouple, eatlocal, eathealthy, eatwell, desifood, trending, tasty, taste, yummyinmytummy, foodie, instafood, instafoodie, foodstagram, instagood, passionatepaprika, foodblog, easy, indian, recipe, mothersrecipe, cooking, easycooking, easyrecipe, simple, simplefood, pooriwalealoo, poorialoo, purialu, purialoo, easycooking, indiancooking]
 image: "/assets/images/used/aachari-poori-wale-aloo.jpg"
 ---

@@ -20,7 +20,6 @@ This dish is the simplest and most loved recipe, straight from the heart of nort
 - 2 Tablespoon fresh Coriander Leaves(optional)
 - 1/4 Teaspoon Turmeric ( Haldi )
 
-
 ## Method
 1. Heat oil in a pan and add cumin seeds and saute till they stops crackling.
 2. Add salt and stir.

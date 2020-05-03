@@ -1,7 +1,7 @@
 ---
 title:  "Rajma with Maggie Bhuna Masala"
 metadate: "hide"
-categories: [Vegetarian]
+categories: [Veg Maincourse-Curries]
 tags: [food, foodphotography, foodblogger, foodbloggers, india, foodgasm, indianfood, love, foodcoma, foodporn,indiancooking, indianrecipe, foodlovers, indianfood, indianfoodbloggers, foodiesofinstagram, foodlove, indian, indiancouple, eatlocal, eathealthy, eatwell, desifood, trending, tasty, taste, yummyinmytummy, foodie, instafood, instafoodie, foodstagram, instagood, passionatepaprika, foodblog, easy, indian, recipe, mothersrecipe, cooking, easycooking, easyrecipe, simple, simplefood, indiancurry, rajmamasala, simplerajma ]
 image: "/assets/images/used/Rajma-with-maggie-bhuna-masala.jpg"
 ---
