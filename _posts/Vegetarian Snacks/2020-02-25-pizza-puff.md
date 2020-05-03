@@ -1,7 +1,7 @@
 ---
 title:  "Pizza Puff"
 metadate: "hide"
-categories: [Snacks]
+categories: [Vegetarian Snacks]
 image: "/assets/images/used/pizza-puffs.jpg"
 ---
 

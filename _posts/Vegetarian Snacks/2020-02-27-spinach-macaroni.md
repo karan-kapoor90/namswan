@@ -1,7 +1,7 @@
 ---
 title:  "Spinach Macaroni"
 metadate: "hide"
-categories: [Vegetarian]
+categories: [Vegetarian Snacks]
 image: "/assets/images/used/spinach-macaroni.jpg"
 ---
 
