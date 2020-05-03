@@ -1,7 +1,7 @@
 ---
 title:  "White Sauce Broccoli Pasta"
 metadate: "hide"
-categories: [Vegetarian]
+categories: [Veg Snacks]
 image: "/assets/images/used/white-sauce-broccoli-pasta.jpg"
 ---
 

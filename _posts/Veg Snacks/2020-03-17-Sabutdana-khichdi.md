@@ -1,7 +1,7 @@
 ---
 title:  "Sabudana Khichdi"
 metadate: "hide"
-categories: [Vegetarian]
+categories: [Veg Snacks]
 image: "/assets/images/used/sabutdana-khichdi.jpg"
 ---
 
