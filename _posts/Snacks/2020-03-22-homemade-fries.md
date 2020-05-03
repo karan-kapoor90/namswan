@@ -18,6 +18,7 @@ Fried snacks! The only memory I have related to these is going for a swim and de
 - Red chili powder or paprika as required - optional
 - Oil for deep frying - as required
 - Chaat masala for seasoning
+
 ## Method
 
 1. Firstly take the potatoes and rinse well in water. Then peel them. 
