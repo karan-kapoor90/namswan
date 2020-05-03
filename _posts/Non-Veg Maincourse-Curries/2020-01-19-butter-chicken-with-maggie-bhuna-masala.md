@@ -1,7 +1,7 @@
 ---
 title:  "Butter Chicken with Maggie Bhuna Masala"
 metadate: "hide"
-categories: [Non-Vegetarian]
+categories: [Non-Veg Maincourse-Curries]
 tags: [food, foodphotography, foodblogger, foodbloggers, india, foodgasm, indianfood, love, foodcoma, foodporn,indiancooking, indianrecipe, foodlovers, indianfood, indianfoodbloggers, foodiesofinstagram, foodlove, indian, indiancouple, eatlocal, eathealthy, eatwell, desifood, trending, tasty, taste, yummyinmytummy, foodie, instafood, instafoodie, foodstagram, instagood, passionatepaprika, foodblog, easy, indian, recipe, mothersrecipe, cooking, easycooking, easyrecipe, simple, simplefood, maggie, maggiemasala, butterchiciken, easybutterchicken, indiancurry,non-vegetarian, nonveg]
 image: "/assets/images/used/butter-chicken-with-maggie-bhuna-masala-.jpg"
 ---
