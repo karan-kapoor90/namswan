@@ -3,7 +3,7 @@ title:  "Cinnamon Sugar"
 metadate: "hide"
 categories: [Accompaniments]
 tags: [food, foodphotography, foodblogger, foodbloggers, india, foodgasm, indianfood, love, foodcoma, foodporn,indiancooking, indianrecipe, foodlovers, indianfood, indianfoodbloggers, foodiesofinstagram, foodlove, indian, indiancouple, eatlocal, eathealthy, eatwell, desifood, trending, tasty, taste, yummyinmytummy, foodie, instafood, instafoodie, foodstagram, instagood, passionatepaprika, foodblog, easy, indian, recipe, mothersrecipe, cooking, easycooking, easyrecipe, simple, simplefood ]
-image: "/assets/images/used/.jpg"
+image: "/assets/images/used/cinnamon-sugar.jpg"
 ---
 
 Cinnamon sugar may not seem like something for which you need to write a recipe but We've put it here so the secret to ensuring this simple sweet is something superlative. The secret lies in the perfect proportion of cinnamon to sugar.
