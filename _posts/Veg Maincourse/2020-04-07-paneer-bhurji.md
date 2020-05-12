@@ -17,12 +17,12 @@ scrambled Indian cottage cheese with onion, tomatoes, capsicum and spices! This 
 - 1/4th Teaspoon Salt or to taste
 - 1 Green Chilli (finely chopped)
 - 1 Teaspoon Ginger Garlic paste (Lasan adrak paste)
-- 1/2 Teaspppon Kashmiri red chilli powder (lal mirch)
+- 1/2 Teaspoon Kashmiri red chilli powder (lal mirch)
 - 1 medium sized tomato (finely chopped)
 - 1/4th Teaspoon turmeric (haldi) Powder
 - 1/2 Teaspoon Garam Masala powder
 - 2 Cups cottage cheese (paneer) crumbled
-- 1 Teaspoon Kasuri Methi (crushed)
+- 1 Teaspoon Kasturi Methi (crushed)
 - 2 Tablespoons Coriander leaves
 - 1 Teaspoon Kitchen King Masala
 
