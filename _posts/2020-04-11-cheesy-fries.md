@@ -11,10 +11,10 @@ Yearning for something delightful? Then it's time to indulge in the goodness of 
 ## Ingredients
 
 - 1 cup shredded cheddar cheese
-black pepper as required
-100 gm French fries
-ranch dressing as required
-salt as required
+- Black pepper as required
+- 100 gm French fries
+- Ranch dressing as required
+- Salt as required
 
 ## Method
 
