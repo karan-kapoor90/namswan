@@ -3,7 +3,7 @@ title:  "Aloo Bhujiya Sandwich"
 metadate: "hide"
 categories: [Snacks]
 tags: [food, foodphotography, foodblogger, foodbloggers, india, foodgasm, indianfood, love, foodcoma, foodporn,indiancooking, indianrecipe, foodlovers, indianfood, indianfoodbloggers, foodiesofinstagram, foodlove, indian, indiancouple, eatlocal, eathealthy, eatwell, desifood, trending, tasty, taste, yummyinmytummy, foodie, instafood, instafoodie, foodstagram, instagood, passionatepaprika, foodblog, easy, indian, recipe, mothersrecipe, cooking, easycooking, easyrecipe, simple, simplefood ]
-image: "/assets/images/used/aloo-bhujiya-sandwich.jpg"
+image: "/assets/images/used/aloo-bhujia-sandwich.jpg"
 ---
 
 no-cook aloo bhujia sandwich, takes us right back to college days!
