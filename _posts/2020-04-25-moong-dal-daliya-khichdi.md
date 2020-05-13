@@ -1,12 +1,12 @@
 ---
 title:  "Moong Dal Daliya Khichdi"
 metadate: "hide"
-categories: [Sides]
+categories: [Rice]
 tags: [food, foodphotography, foodblogger, foodbloggers, india, foodgasm, indianfood, love, foodcoma, foodporn,indiancooking, indianrecipe, foodlovers, indianfood, indianfoodbloggers, foodiesofinstagram, foodlove, indian, indiancouple, eatlocal, eathealthy, eatwell, desifood, trending, tasty, taste, yummyinmytummy, foodie, instafood, instafoodie, foodstagram, instagood, passionatepaprika, foodblog, easy, indian, recipe, mothersrecipe, cooking, easycooking, easyrecipe, simple, simplefood ]
 image: "/assets/images/used/moong-dal-daliya-khichdi.jpg"
 ---
 
-Intro/ insta desc 
+Comfort food with a masaledaar Tadka. 
 
 ## Ingredients
 
@@ -39,6 +39,6 @@ Intro/ insta desc
 10. Add the cooked daliya and dal to the pan.
 11. Mix till well combined, add salt and adjust to taste.
 12. Garnish with dhaniya and serve the moong dal khichdi with some extra ghee on top. 
-13. Also you can serve it with some papad, achar (pickle) and yogurt on the side.
+13. Also you can serve it with some papad and yogurt on the side.
 
 
