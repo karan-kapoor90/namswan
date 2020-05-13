@@ -6,7 +6,7 @@ tags: [food, foodphotography, foodblogger, foodbloggers, india, foodgasm, indian
 image: "/assets/images/used/.jpg"
 ---
 
-Intro/ insta desc 
+This is the modern version of the recipe of sweet rice my dadiji used to make every navratras just for me. It was simple and lovely and every time I make these, it takes me back to the good old days. 
 
 ## Ingredients
 
@@ -22,8 +22,8 @@ Intro/ insta desc
 
 ## Method
 
-1. Wash rice and put a pich of colour, cloves, water and ghee.
+1. Wash rice and put a pinch of colour, cloves, water and ghee.
 2. Microwave 10 minutes with the lid. 
 3. Collect all other ingredients. When the time is over check(rice should be cooked) and add nuts, cardamom and sugar.
-4. Mix thouroghly and mix for 3-5 minutes. 
+4. Mix thoroughly and mix for 3-5 minutes. 
 
