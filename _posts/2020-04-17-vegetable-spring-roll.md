@@ -3,7 +3,7 @@ title:  "Vegetable Spring Roll"
 metadate: "hide"
 categories: [Veg Snacks]
 tags: [food, foodphotography, foodblogger, foodbloggers, india, foodgasm, indianfood, love, foodcoma, foodporn,indiancooking, indianrecipe, foodlovers, indianfood, indianfoodbloggers, foodiesofinstagram, foodlove, indian, indiancouple, eatlocal, eathealthy, eatwell, desifood, trending, tasty, taste, yummyinmytummy, foodie, instafood, instafoodie, foodstagram, instagood, passionatepaprika, foodblog, easy, indian, recipe, mothersrecipe, cooking, easycooking, easyrecipe, simple, simplefood ]
-image: "/assets/images/used/veg-spring-roll.jpg"
+image: "/assets/images/used/veg-spring-rolls.jpg"
 ---
 
 spring roll recipe is an savory recipe from asian or mainland Chinese cuisine. basically, spring roll wrapper is used to stuff the vegetables and then deep fried in oil.
