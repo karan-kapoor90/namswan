@@ -6,7 +6,7 @@ tags: [food, foodphotography, foodblogger, foodbloggers, india, foodgasm, indian
 image: "/assets/images/used/bhindi-pyaz-sabzi.jpg"
 ---
 
-Bhindi Do Pyaza is a North Indian dish made from Okra and doubles the amount of Onions.
+Bhindi Do Pyaza is a North Indian dish made from Okra and Onions.
 
 ## Ingredients
 
