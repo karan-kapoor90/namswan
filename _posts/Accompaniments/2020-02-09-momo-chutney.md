@@ -6,7 +6,7 @@ tags: [food, foodphotography, foodblogger, foodbloggers, india, foodgasm, indian
 image: "/assets/images/used/momo-chutney.jpg"
 ---
 
-ILearnt how to make the chilly chutney that we get with momos. Its not that difficult actually, and it turns out yummy. 
+I learnt how to make the chilly chutney that we get with momos. Its not that difficult actually, and it turns out yummy. 
 
 ## Ingredients
 
