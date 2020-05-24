@@ -1,5 +1,5 @@
 ---
-title:  "Quick Oreo Cake"
+title:  "Quick Oreo Strawberry Cake"
 metadate: "hide"
 categories: [Desserts]
 tags: [food, foodphotography, foodblogger, foodbloggers, india, foodgasm, indianfood, love, foodcoma, foodporn,indiancooking, indianrecipe, foodlovers, indianfood, indianfoodbloggers, foodiesofinstagram, foodlove, indian, indiancouple, eatlocal, eathealthy, eatwell, desifood, trending, tasty, taste, yummyinmytummy, foodie, instafood, instafoodie, foodstagram, instagood, passionatepaprika, foodblog, easy, indian, recipe, mothersrecipe, cooking, easycooking, easyrecipe, simple, simplefood ]
@@ -10,7 +10,7 @@ Baking a cake has never been easier! Turns out perfectly moist without any third
 
 ## Ingredients
 
-- 20 Oreo Biscuits – 20
+- 20 Oreo (Strawberry) Biscuits – 20
 - 1 Cup Milk 
 - Oil for greasing your pan
 
