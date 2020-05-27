@@ -1,4 +1,4 @@
-cd /PP-Website/namswan
+cd /Users/gur/Downloads/namswan
 node resize.js
 rm -rf _site
 git add -A
