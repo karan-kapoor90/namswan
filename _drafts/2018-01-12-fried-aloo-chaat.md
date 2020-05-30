@@ -25,9 +25,11 @@ Intro/ insta desc
 
 ## Method
 
-1. In a bowl mix all wet ingredients.
-2. Add all dry ingredients and beat properly (except potato and pomeogranate)
-3. Add potato to the above mix.
-4. Garnish with pomeoganate and mint leaves. 
+1. Boil potatoes.
+2. Fry potatoes in desi ghee till crispy. 
+3. In a bowl mix all wet ingredients.
+4. Add all dry ingredients and beat properly (except potato and pomeogranate)
+5. Add potato to the above mix.
+6. Garnish with pomeoganate and mint leaves. 
  
 

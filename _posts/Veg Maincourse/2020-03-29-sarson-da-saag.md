@@ -6,7 +6,7 @@ tags: [food, foodphotography, foodblogger, foodbloggers, india, foodgasm, indian
 image: "/assets/images/used/sarson-da-saag.jpg"
 ---
 
-Sarson da saag and makki di roti! North India's favourite winter fruit. 
+Sarson da saag and makki di roti! North India's favourite winter food. 
 
 ## Ingredients
 
